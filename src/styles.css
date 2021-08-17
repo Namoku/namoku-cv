@@ -2,3 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.Boton {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 18px;
+}
+
+.Boton button {
+  background-color: red;
+  color: white;
+  font-size: 48px;
+  border-radius: 300px;
+  height: 300px;
+  width: 300px;
+}
