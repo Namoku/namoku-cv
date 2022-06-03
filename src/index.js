@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
-import Logo from "../assets/LogoUDC.png";
-import LogoG from "../assets/logoGplay.png";
+import Logo from "./assets/LogoUDC.png";
+import LogoG from "./assets/logoGplay.png";
 
 import App from "./App";
 const handleClick = () => {
